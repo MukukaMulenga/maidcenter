@@ -1,0 +1,4 @@
+export const GETDATA = 'GETDATA'
+export const SET_PROFILE = 'SET_PROFILE'
+export const ADD_NOTIFICATIONS = 'ADD_NOTIFICATIONS'
+export const GET_MESSAGES = 'GET_MESSAGES'
